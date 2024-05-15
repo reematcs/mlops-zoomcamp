@@ -53,11 +53,11 @@ Let's apply one-hot encoding to the pickup and dropoff location IDs. We'll use o
 
 What's the dimensionality of this matrix (number of columns)?
 
-* 2
-* 155
-* 345
-* 515
-* 715
+- [x] 2
+- [ ] 155
+- [ ] 345
+- [ ] 515
+- [ ] 715
 
 
 ## Q5. Training a model
