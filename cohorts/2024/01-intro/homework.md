@@ -15,7 +15,7 @@ Read the data for January. How many columns are there?
 * 16
 * 17
 * 18
-* 19
+[*] 19
 
 
 ## Q2. Computing duration
